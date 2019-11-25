@@ -1,0 +1,1 @@
+{"version":3,"file":"4.80f1862c5b3438eff08b.hot-update.js","sources":["webpack:///pages/index.js"],"sourcesContent":["import header from  \"./Components/Header\"\n\n\n\nexport default () => {}\n\n\n// WEBPACK FOOTER //\n// pages/index.js"],"mappings":";;;;;;;;;;;;;;AAAA;AACA;AAGA;AACA;AADA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;A","sourceRoot":""}
